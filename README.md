@@ -1,2 +1,2 @@
-# CV-Pavel
-To insert here the link for my CV io
+# https://simaxa7.github.io/CV-Pavel/
+This link for my CV
